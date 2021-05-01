@@ -1,4 +1,5 @@
-
+#GaMeme-1.0
+#DdRoot 
 puts '====================================================================================================='
 puts "Este é o jogo de perguntas e respostas dos Memes"
 puts "cada pergunta vale 10 pontos"
